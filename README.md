@@ -1,1 +1,1 @@
-# javascript-freecodecamp
+# Basic Algorithm Scripting
