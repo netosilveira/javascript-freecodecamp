@@ -1,1 +1,1 @@
-# Javascript FreeCodeCamp
+# ES6
